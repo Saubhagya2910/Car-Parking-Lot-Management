@@ -1,1 +1,1 @@
-# Car-Parking-Lot-Management
+Recognition using mediapipe
